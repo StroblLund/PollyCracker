@@ -1,6 +1,9 @@
 # Toy implementation of Polly Cracker in Python
 
-This is not safe code! Do not use this for encryption! 
+This is not safe code! 
+
+Do not use this for encryption! 
+
 This is a toy example of Polly Cracker implemented in Python/SageMath which I use for my Master thesis at university.
 
 The Source Code also includes a routine that checks if the "Intelligent Linear Algebra Attack" [1] works and an implementation of the Differential Attack described by [2].
