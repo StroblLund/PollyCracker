@@ -1,6 +1,4 @@
-# thesis-code
-Code for my thesis
-Toy implementation of Polly Cracker in Python
+# Toy implementation of Polly Cracker in Python
 
 This is not safe code! Do not use this for encryption! This is a toy eample of Polly Cracker implemented in Python which I use for my Master thesis at university.
 
